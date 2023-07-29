@@ -19,6 +19,12 @@ The home screen has two options, play against a human (two player mode) and agai
 <br/>
 Also I'm confused on how to create a .exe file as pyinstaller does not work for me due to other packages/modules that I can't delete... so if anyone has any ideas and can help, that would be awesome.
 
+### Home Screen
+<img src="home.png" width="50%"/>
+
+### Game Play
+<img src="gameplay.gif" />
+
 ---
 
 ### Thank you!
